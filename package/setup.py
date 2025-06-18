@@ -43,7 +43,7 @@ setup(
                       'python-nmap == 0.7.1',
                       'requests == 2.32.4',
                       'tqdm == 4.66.3',
-                      'urllib3 == 1.26.19',
+                      'urllib3 == 2.5.0',
                       'yarl == 1.8.2',
                       'dnspython',
                       'rich',
